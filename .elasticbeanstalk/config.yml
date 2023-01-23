@@ -1,0 +1,2 @@
+deploy:
+  artifact: target/uploading-files-initial-0.0.1-SNAPSHOT.jar
